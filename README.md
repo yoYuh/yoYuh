@@ -11,7 +11,8 @@
 
 Me chamo Wanusa, tenho 20 anos e sou natural de Minas Gerais.  sou estudante de Ciência da Computação na Newton Paiva.
 
-Sou apaixonada por tecnologia, aprendizado contínuo e resolução de problemas. Atualmente trabalho com atendimento ao cliente enquanto desenvolvo minhas habilidades na área de TI e programação.
+Sou apaixonada por tecnologia, aprendizado contínuo e resolução de problemas. 
+Estou constantemente estudando e desenvolvendo minhas habilidades técnicas para crescer profissionalmente na área de TI, especialmente em desenvolvimento e qualidade de software.
 
 Tenho interesse em:
 - Desenvolvimento Web
