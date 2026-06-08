@@ -98,8 +98,6 @@ Buscando minha primeira oportunidade como **desenvolvedora front-end** ou na ár
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoYuh&show_icons=true&theme=tokyonight"/>
