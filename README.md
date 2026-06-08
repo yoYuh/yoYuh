@@ -1,29 +1,21 @@
+<h1 align="center">Olá! Eu sou a Wanusa 👋</h1>
 
-
-<div align="center">
-
-### Estudante de Ciência da Computação • Tecnologia • Desenvolvimento
-
-</div>
+<p align="center">
+  Estudante de Ciência da Computação &bull; Dev em formação &bull; Mineira de coração
+</p>
 
 ---
 
+## 🙋‍♀️ Sobre mim
 
-Me chamo Wanusa, tenho 20 anos e sou natural de Minas Gerais.  sou estudante de Ciência da Computação na Newton Paiva.
-
-Sou apaixonada por tecnologia, aprendizado contínuo e resolução de problemas. 
-Estou constantemente estudando e desenvolvendo minhas habilidades técnicas para crescer profissionalmente na área de TI, especialmente em desenvolvimento e qualidade de software.
-
-Tenho interesse em:
-- Desenvolvimento Web
-- UI/UX
-- Tecnologia
-- Git & GitHub
-
+Tenho 21 anos e sou estudante de **Ciência da Computação** na Newton Paiva (BH-MG).
+Apaixonada por tecnologia, aprendizado contínuo e resolução de problemas.
+Buscando minha primeira oportunidade como **desenvolvedora front-end** ou na área de **qualidade de software**.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -82,8 +74,6 @@ Tenho interesse em:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
-
 <img 
     align="left" 
     alt="Git" 
@@ -104,19 +94,34 @@ Tenho interesse em:
 <br/>
 <br/>
 
+---
 
+## 📊 GitHub Stats
 
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yoYuh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoYuh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📌 Interesses
+
+- 🌐 Desenvolvimento Web
+- 🎨 UI/UX Design
+- 🧪 Qualidade de Software
+- 🐙 Git & GitHub
 
 ---
 
 ## 📫 Contato
 
-📧 wanusasouza3@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanusasouza3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yoYuh)
 
 ---
 
 <div align="center">
-
-✨ “Pequenos progressos ainda são progressos.” ✨
-
+  ✨ <em>"Pequenos progressos ainda são progressos."</em> ✨
 </div>
