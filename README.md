@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Wanusa 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação &bull; Dev em formação &bull; Mineira de coração
+  Estudante de Ciência da Computação &bull; Dev em formação &bull;
 </p>
 
 ---
@@ -98,9 +98,21 @@ Buscando minha primeira oportunidade como **desenvolvedora front-end** ou na ár
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=yoYuh&color=blueviolet&style=for-the-badge)
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoYuh&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoYuh&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yoYuh&theme=tokyonight"/>
+
+</div>
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yoYuh&theme=tokyo-night"/>
 ---
 
 ## 📌 Interesses
